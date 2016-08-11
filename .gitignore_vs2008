@@ -1,0 +1,9 @@
+Debug/
+Release/
+*/Debug/
+*/Release/
+*.ncb
+*.suo
+*.aps
+*/*.vcproj
+*.vcproj*
